@@ -1,0 +1,4 @@
+Timestamp,URL,Status,Status Code,Response Time (s),error
+2026-10-30 09:08:25,https://www.google.com,up,200,0.7321186065673828,N/A
+2026-10-30 09:08:28,https://httpbin.org/delay/2,up,200,2.866995096206665,N/A
+2026-10-30 09:08:28,https://nonexistent-website.xyz,down,200,2.866995096206665,"HTTPSConnectionPool(host='nonexistent-website.xyz', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x0000013946A37950>: Failed to resolve 'nonexistent-website.xyz' ([Errno 11001] getaddrinfo failed)""))"
